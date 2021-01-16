@@ -1,5 +1,8 @@
 [![PyPI
 version](https://badge.fury.io/py/truefalsepython.svg)](https://pypi.org/project/truefalsepython/)
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/PasaOpasen/true-false-python/issues) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/PasaOpasen/true-false-python/pulls)
+
 
 # true-false-python
 
