@@ -1,0 +1,17 @@
+
+No data:
+get attr for object
+
+
+R-like functions:
+apply
+colSums/rowSums
+nrow, ncol
+supply/lapply
+
+
+ideal to have:
+++ -- & | operators
+
+
+
