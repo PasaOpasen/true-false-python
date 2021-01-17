@@ -3,12 +3,6 @@ No data:
 get attr for object
 conveyor belt
 
-R-like functions:
-apply
-colSums/rowSums
-nrow, ncol
-supply/lapply
-
 
 ideal to have:
 ++ -- & | operators
