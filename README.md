@@ -3,6 +3,9 @@ version](https://badge.fury.io/py/truefalsepython.svg)](https://pypi.org/project
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/PasaOpasen/true-false-python/issues) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/PasaOpasen/true-false-python/pulls)
 
+[![Downloads](https://pepy.tech/badge/truefalsepython)](https://pepy.tech/project/truefalsepython)
+[![Downloads](https://pepy.tech/badge/truefalsepython/month)](https://pepy.tech/project/truefalsepython)
+[![Downloads](https://pepy.tech/badge/truefalsepython/week)](https://pepy.tech/project/truefalsepython)
 
 # true-false-python
 
