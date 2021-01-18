@@ -14,6 +14,7 @@ pip install truefalsepython
 
 - [true-false-python](#true-false-python)
   - [Logical tools](#logical-tools)
+  - [Little functions](#little-functions)
   - [R-like functions](#r-like-functions)
 
 ## Logical tools
@@ -34,6 +35,12 @@ print(False == false) # True
 
 print(NULL) # None
 ```
+
+## Little functions
+
+* `is_odd(number)`
+* `is_even(number)`
+* `is_number(object)`
 
 ## R-like functions
 
