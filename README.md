@@ -18,6 +18,7 @@ pip install truefalsepython
 - [true-false-python](#true-false-python)
   - [Logical tools](#logical-tools)
   - [Little functions](#little-functions)
+  - [Useful functions](#useful-functions)
   - [R-like functions](#r-like-functions)
 
 ## Logical tools
@@ -44,6 +45,11 @@ print(NULL) # None
 * `is_odd(number)`
 * `is_even(number)`
 * `is_number(object)`
+
+## Useful functions
+
+* `fast_sample(objects, probs)` -- returns 1 random object from `objects` with `probs` probabilities. It's faster than `np.random.choice(objects, 1, probs)` ([example](tests/fast_sample.py))
+
 
 ## R-like functions
 
