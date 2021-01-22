@@ -1,6 +1,11 @@
 
 import random
 
+
+def randomTrue(prob = 0.5):
+    return True if random.random() < prob else False
+
+
 def fast_sample(objects, probs):
     """
     returns 1 random object from objects with probs probabilities 

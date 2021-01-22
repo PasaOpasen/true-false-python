@@ -49,6 +49,7 @@ print(NULL) # None
 ## Useful functions
 
 * `fast_sample(objects, probs)` -- returns 1 random object from `objects` with `probs` probabilities. It's faster than `np.random.choice(objects, 1, probs)` ([example](tests/fast_sample.py))
+* `randomTrue(prob = 0.5)` -- returns `True` with probability `prob`, otherwise `False`
 
 
 ## R-like functions
