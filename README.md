@@ -20,6 +20,7 @@ pip install truefalsepython
   - [Little functions](#little-functions)
   - [Useful functions](#useful-functions)
   - [R-like functions](#r-like-functions)
+  - [Functions without category](#functions-without-category)
 
 ## Logical tools
 
@@ -126,4 +127,9 @@ print(sample(some_arr, 4))
 print(sample_int(n = 100, size = 10))
 # [69 46 58 12 73 98 31 53 65 96]
 ```
+
+## Functions without category
+
+* `time_to_seconds(days = 0, hours = 0, minutes = 0, seconds = 5)` -- converts time to seconds
+
 

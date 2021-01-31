@@ -7,3 +7,7 @@ from .r_funcs import nrow, ncol, colMeans, rowMeans, colSums, rowSums, apply, la
 from .useful_funcs import fast_sample, randomTrue
 
 
+
+from .other import time_to_seconds
+
+
