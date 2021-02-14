@@ -5,6 +5,12 @@ import numpy as np
 from .logical import TRUE, FALSE, NULL
 
 
+
+def ifelse(logical_vector, if_true, if_false):
+    return np.where(logical_vector, if_true, if_false)
+
+
+
 def nrow(arr2D):
     """
     returns number of rows

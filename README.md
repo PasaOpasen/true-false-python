@@ -53,9 +53,16 @@ print(NULL) # None
 * `randomTrue(prob = 0.5)` -- returns `True` with probability `prob`, otherwise `False`
 
 
+Useful for debug:
+
+* `set_trace()` -- like breakpoint
+* `debug(function, *args, **kwargs)` -- for debug `function` function with those arguments
+
+
 ## R-like functions
 
 For arrays there are several R-like functions:
+* `ifelse` — just wrapper of `numpy.where` 
 * `nrow` — returns number of rows
 * `ncol` — returns number of columns
 * `colMeans` — returns average for each column

@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="truefalsepython", 
-    version="0.1.5",
+    version="0.1.6",
     author="Demetry Pascal",
     author_email="qtckpuhdsa@gmail.com",
     maintainer = ['Demetry Pascal'],
