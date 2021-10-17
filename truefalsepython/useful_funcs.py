@@ -1,12 +1,15 @@
+
+from typing import Sequence, Any
+
 import sys
 import random
 
 
-def randomTrue(prob = 0.5):
+def randomTrue(prob: float = 0.5):
     return True if random.random() < prob else False
 
 
-def fast_sample(objects, probs):
+def fast_sample(objects: Sequence[Any], probs: Sequence[float]):
     """
     returns 1 random object from objects with probs probabilities 
     """

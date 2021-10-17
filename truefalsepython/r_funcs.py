@@ -6,7 +6,7 @@ from .logical import TRUE, FALSE, NULL
 
 
 
-def ifelse(logical_vector, if_true, if_false):
+def ifelse(logical_vector: np.ndarray, if_true, if_false):
     return np.where(logical_vector, if_true, if_false)
 
 

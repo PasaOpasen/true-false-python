@@ -46,6 +46,8 @@ print(NULL) # None
 * `is_odd(number)`
 * `is_even(number)`
 * `is_number(object)`
+* `max_fast(a, b)`
+* `min_fast(a, b)`
 
 ## Useful functions
 
